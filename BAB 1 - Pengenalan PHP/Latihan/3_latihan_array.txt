@@ -1,0 +1,9 @@
+ARRAY
+--------
+Buat file array.php
+======================
+buat array = Omega, Rolex, Casio, Hublot
+
+Hasil :
+--------
+Saya suka jam tangan Rolex, Omega, Hublot dan Casio.

@@ -1,0 +1,14 @@
+DATE dan INCLUDE
+-------------------------------
+Buat file tanggal.php
+======================
+var_tanggal = 25-08-2015 (tanggal_hari_ini)
+var_tempat = DUMET School
+
+Buat file cetak.php
+======================
+var_paket = webmaster
+
+Hasil :
+----------------------
+Belajar PHP itu Mudah. Saya mulai belajar webmaster di DUMET School pada tanggal 25-08-2015.

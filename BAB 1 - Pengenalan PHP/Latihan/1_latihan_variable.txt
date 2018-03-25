@@ -1,0 +1,10 @@
+Variable dan String
+-------------------------------
+Buat file variable.php
+======================
+var_nama = Rully Febrian
+var_tempat = DUMET School
+
+Hasil :
+-------------------------------------
+Hallo nama Saya Rully Febrian. Saya sedang Belajar PHP di DUMET School.
